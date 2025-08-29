@@ -1,4 +1,3 @@
-tech:
 ---
 title: "⚖︎風の吹く丘♔"
 # description: "学如逆水行舟，不进则退。"
