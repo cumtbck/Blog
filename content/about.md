@@ -9,8 +9,8 @@ categories:
 - category 2
 
 tags:
-- tag 1
-- tag 2
+- Future Diary
+- WHAT IS LOVE
 
 keywords:
 - word 1

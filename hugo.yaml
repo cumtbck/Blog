@@ -52,10 +52,10 @@ languages:
             name: ⏱时间轴
             url: /archives
             weight: 20
-          # - identifier: categories
-          #   name: 🧩分类
-          #   url: categories
-          #   weight: 30
+          - identifier: categories
+            name: 🧩分类
+            url: /categories
+            weight: 30
           - identifier: tags
             name: 🔖标签
             url: /tags
